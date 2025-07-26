@@ -1,0 +1,31 @@
+.first
+{
+    border:2px solid red;         /* Required */
+    width:200px;
+    height:200px;
+}
+.first h1
+{
+    
+    color: yellowgreen;
+}
+.second
+{
+    border:2px solid rgb(44, 219, 21);         /* Required */
+    width:200px;
+    height:200px;
+}
+.second h1
+{
+    color: black;
+}
+.third
+{
+    border:2px solid rgb(26, 39, 182);         /* Required */
+    width:200px;
+    height:200px;
+}
+.third h1
+{
+    color: purple;
+}

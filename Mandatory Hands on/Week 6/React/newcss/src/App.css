@@ -1,0 +1,7 @@
+.box-container {
+  display: flex;               /* ✅ Make children align side by side */
+  justify-content: space-around; /* Add space between them */
+  padding: 20px;
+  flex-wrap: wrap;             /* Optional: allows wrapping on small screens */
+  gap: 20px;                   /* Optional: spacing between boxes */
+}
